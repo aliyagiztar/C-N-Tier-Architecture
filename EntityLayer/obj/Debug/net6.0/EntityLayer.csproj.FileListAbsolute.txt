@@ -1,0 +1,12 @@
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/bin/Debug/net6.0/EntityLayer.deps.json
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfo.cs
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/EntityLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/refint/EntityLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/EntityLayer.pdb
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/EntityLayer/obj/Debug/net6.0/ref/EntityLayer.dll

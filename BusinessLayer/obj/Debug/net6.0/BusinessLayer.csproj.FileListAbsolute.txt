@@ -1,0 +1,17 @@
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/bin/Debug/net6.0/BusinessLayer.deps.json
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/bin/Debug/net6.0/BusinessLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/bin/Debug/net6.0/BusinessLayer.pdb
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/bin/Debug/net6.0/DataAccessLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/bin/Debug/net6.0/DataAccessLayer.pdb
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.AssemblyReference.cache
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfoInputs.cache
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfo.cs
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CopyComplete
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/refint/BusinessLayer.dll
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
+/Users/tarikhamarat/RiderProjects/Katmanli_Mimari/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll

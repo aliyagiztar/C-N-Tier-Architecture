@@ -1,0 +1,12 @@
+﻿@using EntityLayer.Concrete
+@model Product
+
+<form method="post" asp-action="Index">
+    <label>ÜRÜN ADI</label><br/>
+    @if (ViewBag.UrunAdiHatasi == false)
+    {
+        <span style="color: red">ÜRÜN ADI 3 KARAKTERDEN AZ OLAMAZ</span><br/>
+    }
+    <input type="text" asp-for="@Model.Ad" /><br/>
+    <input class="btn btn-warning" type="submit" value="ÜRÜN EKLE"/>
+</form>
